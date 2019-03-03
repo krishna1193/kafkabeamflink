@@ -134,7 +134,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.hsbc.ctu.demo.IT4Dataflow.KafkaFlinkDemo</mainClass>
+							<mainClass>com.hsbc.ctu.demo.IT4Dataflow.KafkaConsumerBeam</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
